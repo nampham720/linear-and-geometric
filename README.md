@@ -1,5 +1,8 @@
 # Linear Fitting and Geometric Transformation
-The purpose of the project is to get familiarised with numpy and openCV (all built from scratch).
+The purpose of the project is to get familiarised with numpy and openCV. <br> 
+Content in the project (all built from scratch):
+* Linear Fitting,
+* Geometric Transformation (rotate an image).
 
 
 #### Author
